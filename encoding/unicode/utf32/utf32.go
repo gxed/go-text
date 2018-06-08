@@ -10,7 +10,7 @@
 // (https://www.w3.org/TR/html5/document-metadata.html#charset)
 // while WHATWG directly prohibits supporting it
 // (https://html.spec.whatwg.org/multipage/syntax.html#character-encodings).
-package utf32 // import "golang.org/x/text/encoding/unicode/utf32"
+package utf32
 
 import (
 	"errors"
